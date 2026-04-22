@@ -1,4 +1,4 @@
-# InkTime - Proiect Smartwatch Open-Source (nRF52840)
+# InkTime - Proiect Smartwatch
 
 **InkTime** este un dispozitiv purtabil de tip smartwatch, optimizat pentru eficienta energetica extrema si conectivitate Bluetooth Low Energy (BLE). Proiectul integreaza un ecosistem complex de senzori si management de putere intr-un format compact.
 
